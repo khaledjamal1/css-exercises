@@ -1,0 +1,22 @@
+.pink {
+    background-color: pink;
+    font-size: 30px;
+}
+#three {
+    font-size: 35px;
+}
+#two {
+    font-size: 55px;
+    font-weight: bold;
+    color: rgb(25, 162, 253);
+    
+}
+#four {
+    font-weight: bold;
+    color: black;
+    background-color: rgb(87, 242, 87);
+    font-size: 35px;
+}
+.three {
+    font-size: 30px;
+}
